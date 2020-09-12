@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [https//skyydev.me](https//skyydev.me)
 
-- 📫 How to reach me **skyydev@gmail.com**
+- 📫 How to reach me **codeSky#0001** on Discord
 
 - ⚡ Fun fact **my favourite drink is apple juice**
 
