@@ -3,13 +3,13 @@
 
 - 🔭 I’m currently working on [Nero] Discord bot (https://nerobot.ml)
 
-- 🌱 I’m currently learning **JavaScript**
+- 🌱 I’m currently learning **C#**
 
 - 👨‍💻 All of my projects are available at [https//skyydev.me](https//skyydev.me)
 
 - 📫 How to reach me **codeSky#0001** on Discord
 
-- ⚡ Fun fact **im 189cm but im only 14**
+- ⚡ Fun fact **i like to say pog**
 
 <p align="left"><img src="https://devicons.github.io/devicon/devicon.git/icons/java/java-original-wordmark.svg" alt="java" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/></p>
 
