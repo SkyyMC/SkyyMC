@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Skyy</h1>
-<h3 align="center">A passionate developer from Poland</h3>
+<h3 align="center">A passionate developer from Sweden</h3>
 
 - 🔭 I’m currently working on [Nero] Discord bot (https://nerobot.ml)
 
