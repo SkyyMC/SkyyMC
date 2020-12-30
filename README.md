@@ -11,6 +11,5 @@
 
 - ⚡ Fun fact **i like to say pog**
 
-<p align="left"><img src="https://devicons.github.io/devicon/devicon.git/icons/java/java-original-wordmark.svg" alt="java" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/></p> <img
-src="https://cdn.worldvectorlogo.com/logos/c--4.svg" alt="javascript" width="40" height="40"/></p>
+<p align="left"><img src="https://devicons.github.io/devicon/devicon.git/icons/java/java-original-wordmark.svg" alt="java" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/><img src="https://cdn.worldvectorlogo.com/logos/c--4.svg" alt="c#" width="40" height="40"/></p> 
 
