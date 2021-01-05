@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [https//skyydev.me](https//skyydev.me)
 
-- 📫 How to reach me **skyy#0001** on Discord
+- 📫 How to reach me: **skyy#0001** on Discord
 
 - ⚡ Fun fact **i like to say pog**
 
