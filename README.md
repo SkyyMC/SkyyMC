@@ -9,7 +9,7 @@
 
 - 📫 How to reach me: **Skyy#0001** on Discord
 
-- ⚡ Fun fact **dex i**
+- ⚡ Fun fact **dex is a dog**
 
 <p align="left"><img src="https://cdn.iconscout.com/icon/free/png-256/java-25-226002.png" alt="java" width="40" height="40"/> <img src="https://cdn.iconscout.com/icon/free/png-256/javascript-2038874-1720087.png" alt="javascript" width="40" height="40"/><img src="https://cdn.worldvectorlogo.com/logos/c--4.svg" alt="c#" width="40" height="40"/></p> 
 
