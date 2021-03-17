@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Skyy</h1>
 <h3 align="center">A passionate developer from Sweden</h3>
 
-- 🔭 I’m currently working on LaborWave Minecraft Hacked Client (https://laborwave.xyz)
+- 🔭 I’m currently working on LaborWave Minecraft Hacked Client (https://laborwave.xyz) and on clippy.space private image uploader (https://clippy.space)
 
 - 🌱 I’m currently learning **Java**
 
